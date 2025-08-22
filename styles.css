@@ -29,7 +29,7 @@ section {
 }
 
 .inicio-fundo {
-    background-image: url('capaFM.png');
+    background-image: url('img/capaFM.png');
     background-size: cover;
     background-position: right;
     border-radius: 80px;
@@ -76,8 +76,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('coroaFM.png') top right no-repeat,
-        url('discoFM1.png') bottom left no-repeat;
+    background: url('img/coroaFM.png') top right no-repeat,
+        url('img/discoFM1.png') bottom left no-repeat;
     background-size: 180px 180px;
 }
 
@@ -103,12 +103,12 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('discoFM.png') bottom right no-repeat;
+    background: url('img/discoFM.png') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
 #contato {
-    background-image: url('capaFM.png');
+    background-image: url('img/capaFM.png');
     background-size: cover;
     padding: 4rem 0;
 
